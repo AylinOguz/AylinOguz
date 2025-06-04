@@ -3,7 +3,7 @@
 
 # 💫 Hello,I'm Aylin
 
-I'm an Electrical Engineer. With a strong curiosity for technology and a constant desire to learn, I am continuing my journey of career and personal development with excitement.
+I'm an Electrical Engineer with a strong curiosity for technology and a continuous drive to learn and grow. Passionate about innovation and problem-solving, I am actively pursuing both career and personal development with enthusiasm and purpose.
 
 
 ## 🌐 Socials:
