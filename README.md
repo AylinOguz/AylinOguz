@@ -16,3 +16,7 @@ I'm an Electrical Engineer. With a strong curiosity for technology and a constan
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AylinOguz&theme=buefy&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
