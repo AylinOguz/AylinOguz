@@ -19,4 +19,4 @@ I'm an Electrical Engineer. With a strong curiosity for technology and a constan
 
 
 
-
+![image alt](https://github.com/AylinOguz/AylinOguz/blob/main/john%20Dewey.png?raw=true)
