@@ -16,7 +16,7 @@ I'm an Electrical Engineer with a strong curiosity for technology and a continuo
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AylinOguz&theme=buefy&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=AylinOguz&theme=buefy&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AylinOguz&theme=buefy&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
 
 
 
