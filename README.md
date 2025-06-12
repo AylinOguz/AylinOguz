@@ -22,4 +22,4 @@ I'm an Electrical Engineer with a strong curiosity for technology and a continuo
 
 
 
-![image alt](https://github.com/AylinOguz/AylinOguz/blob/main/john%20Dewey.png?raw=true)
+![image alt](https://github.com/AylinOguz/AylinOguz/blob/main/Images/john%20Dewey.png?raw=true)
