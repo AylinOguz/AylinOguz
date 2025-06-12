@@ -1,4 +1,4 @@
-![image alt](https://github.com/AylinOguz/AylinOguz/blob/main/data.png?raw=true)
+![image alt](https://github.com/AylinOguz/AylinOguz/blob/main/Images/data.png?raw=true)
 
 
 # 💫 Hello,I'm Aylin
